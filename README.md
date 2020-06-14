@@ -45,4 +45,4 @@ Instructions
 
 ## Colab Link
 
-https://drive.google.com/drive/folders/1CXyC6svcjDCfIrOqC8kx6tNeNxfR0YpU
+https://colab.research.google.com/drive/19nMkL5gku-Ms6zMkICcwT64Pp1J9WSXO?usp=sharing,%20https://colab.research.google.com/drive/1RI_hBvmNIPPenxU4LdmdtI5IVn_Mbzuv?usp=sharing,%20https://colab.research.google.com/drive/1WGLL8m2-Wk2UE6yOMX-w_rr2qRLWWMmJ?usp=sharing,%20https://colab.research.google.com/drive/1rD0U3W7r3ki3po_b1W9usv_zsV9m35CE?usp=sharing
