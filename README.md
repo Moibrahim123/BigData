@@ -43,7 +43,7 @@ Instructions
 -	If you choose to use PySpark, create a new notebook and perform your analysis there.
 -	Consider steps to take to reduce noisy dat
 
-## Colab Link
+## Colab Links
 
 https://colab.research.google.com/drive/19nMkL5gku-Ms6zMkICcwT64Pp1J9WSXO?usp=sharing
 https://colab.research.google.com/drive/1rD0U3W7r3ki3po_b1W9usv_zsV9m35CE?usp=sharing
